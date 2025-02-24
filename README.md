@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 # answer: Software engineering is a systematic, disciplined, and measurable approach to designing, developing, testing, and maintaining software applications. It applies engineering principles to software development to ensure that the final product is reliable, efficient, scalable, and meets user requirements. Software engineering encompasses various methodologies, frameworks, and tools that help developers create high-quality software solutions.
-
+ 
 Importance of Software Engineering in the Technology Industry
 
 Efficiency and Reliability:
